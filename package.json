@@ -1,0 +1,28 @@
+{
+  "name": "scream-stream",
+  "description": "convert contents of a stream to uppercase (for tests n whatever)",
+  "version": "0.0.0",
+  "author": "Renée Kooi <renee@kooi.me>",
+  "bugs": {
+    "url": "https://github.com/goto-bus-stop/scream-stream/issues"
+  },
+  "devDependencies": {
+    "standard": "^11.0.0",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.0.0"
+  },
+  "homepage": "https://github.com/goto-bus-stop/scream-stream",
+  "keywords": [
+    "stream",
+    "uppercase"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goto-bus-stop/scream-stream.git"
+  },
+  "scripts": {
+    "test": "standard && node test | tap-spec"
+  }
+}
