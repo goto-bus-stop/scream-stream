@@ -1,7 +1,7 @@
 {
   "name": "scream-stream",
   "description": "convert contents of a stream to uppercase (for tests n whatever)",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": {
     "url": "https://github.com/goto-bus-stop/scream-stream/issues"

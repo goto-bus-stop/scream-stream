@@ -3,6 +3,8 @@
 convert contents of a stream to uppercase.
 potentially useful for tests n whatever.
 
+scream yr h\*ckin lungs out!
+
 [Install](#install) - [Usage](#usage) - [License: Apache-2.0](#license)
 
 [![npm][npm-image]][npm-url]
